@@ -8,22 +8,18 @@ Welcome to my GitHub profile repository! This page highlights my personal projec
 
 ### 1. Smart RMC AI
 * **Repository:** [HardikBansal-afk/Smart-RMC-AI](https://github.com/HardikBansal-afk/Smart-RMC-AI)
-* **Team Members:** Hardik Bansal, Trisha Jain
 * **Description:** An AI-powered engineering tool utilizing computer vision models (YOLOv8), OCR, and Retrieval-Augmented Generation (RAG) pipelines to automate the conversion of complex engineering drawings into Bills of Materials (BoM).
 
 ### 2. EvalEdge
 * **Repository:** [vaidnehal10-afk/EvalEdge](https://github.com/vaidnehal10-afk/EvalEdge)
-* **Team Members:** Nehal Vaid, Trisha Jain
 * **Description:** A robust Java-based multi-service application incorporating teacher slot management, student booking workflows, and an administrative dashboard server.
 
 ### 3. Schedulix Simulator
 * **Repository:** [G0rangi-agg/Schedulix-simulator](https://github.com/G0rangi-agg/Schedulix-simulator)
-* **Team Members:** Gorangi, Trisha Jain
 * **Description:** A full-stack CPU scheduling algorithm simulator web application deployed on Render, visualizing process execution paths and scheduling metrics.
 
 ### 4. DOMAudit AI
 * **Repository:** [HardikBansal-afk/DOMAudit-AI](https://github.com/HardikBansal-afk/DOMAudit-AI)
-* **Team Members:** Hardik Bansal, Trisha Jain
 * **Description:** An automated auditing tool designed to inspect web DOM structures and analyze frontend performance and accessibility criteria.
 
 ---
